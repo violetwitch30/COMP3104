@@ -18,11 +18,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/violetwitch30/COMP3104/issues"
   },
-  "homepage": "https://github.com/violetwitch30/COMP3104#readme",
+  "homepage": "https://violetwitch30.github.com/COMP3104",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
